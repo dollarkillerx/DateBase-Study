@@ -3,7 +3,7 @@ PostgreSql-Study
 
 ### isntall
 ```
-sudo oat-get install postgresql
+sudo apt-get install postgresql
 psql --version
 nmap 127.0.0.1
 #port:5432
